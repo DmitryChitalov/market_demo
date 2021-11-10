@@ -1,0 +1,6 @@
+#!/app/.heroku/python/bin/python
+
+from cx_Freeze import main
+
+main()
+
